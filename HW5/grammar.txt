@@ -1,0 +1,6 @@
+subject::=Watashi|Omae|Sensei|Gojira|Maati-Sensei|
+object::=Hanbaga|Inu|Neko|Pasokon|Sushi|Kendo
+particle::=wo|ha|no|ga
+verb::=tabemasu|hashiru|ansatsusuru|kiku|kiru
+adjective::=kakkoi|hiroi|oishii|kawaii|hidoi|akai
+sentence::=subject particle object particle verb|subject particle verb|subject particle adjective object particle verb

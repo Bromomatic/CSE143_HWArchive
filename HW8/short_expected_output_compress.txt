@@ -1,0 +1,12 @@
+This program encodes/decodes Huffman compressed files.
+(c)ompress or (d)ecompress? c
+Input file name? short.txt
+
+Character encodings:
+'\n'=1101101 ' '=111 'a'=1000 'c'=0000 'd'=10011 'e'=011 'f'=01010 'h'=01011 'i'=0011 'l'=0010 'm'=1101000 'n'=0001 'o'=1100 'p'=10010 'r'=0100 's'=1010 't'=1011 'u'=110101 'w'=1101001 'y'=110111 EOF=1101100 
+
+Output file name (blank for System.out)? short.huf
+Compressing ...
+Saving character counts to short.huf.counts ...
+
+Done. (20ms)

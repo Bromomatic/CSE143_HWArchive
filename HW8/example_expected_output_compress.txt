@@ -1,0 +1,12 @@
+This program encodes/decodes Huffman compressed files.
+(c)ompress or (d)ecompress? c
+Input file name? example.txt
+
+Character encodings:
+' '=00 'a'=11 'b'=10 'c'=010 EOF=011 
+
+Output file name (blank for System.out)? example.huf
+Compressing ...
+Saving character counts to example.huf.counts ...
+
+Done. (160ms)
